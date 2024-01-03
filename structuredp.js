@@ -1,0 +1,5 @@
+console.log('Welcome to the Structured Programing')
+console.log('They offers 3 types of Building Block')
+console.log('Selection')
+console.log('Iteration')
+console.log('Sub-sequence')

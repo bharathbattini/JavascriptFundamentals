@@ -1,0 +1,20 @@
+i is 0
+i is 2
+i is 4
+i is 6
+i is 8
+The characters are less or more than 8
+7
+The characters are less or more than 8
+7
+The characters are less or more than 8
+7
+The characters are less or more than 8
+7
+The characters are less or more than 8
+7
+Hello World ${a}
+Hello World ${a}
+Hello World ${a}
+Hello World ${a}
+Hello World ${a}
