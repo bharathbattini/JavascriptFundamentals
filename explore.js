@@ -12,3 +12,7 @@ console.log(typeof (i));
 i = "Bharath";
 console.log(i);
 console.log(typeof (i));
+
+var y = 12;
+var y = 13;
+console.log(y);
